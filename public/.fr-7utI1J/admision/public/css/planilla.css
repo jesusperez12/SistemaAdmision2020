@@ -1,0 +1,15 @@
+textarea {
+	resize:none;
+}
+label{
+	font-family: 'Roboto', sans-serif;
+}
+
+td, th{
+font-family: 'Roboto', sans-serif;
+font-size:12px;
+}
+
+alert-success {
+  background-color: #dff0d8;
+}

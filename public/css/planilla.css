@@ -1,0 +1,36 @@
+textarea {
+	resize:none;
+}
+label{
+	font-family: 'Roboto', sans-serif;
+}
+
+td, th{
+font-family: 'Roboto', sans-serif;
+font-size:12px;
+}
+
+alert-success {
+  background-color: #dff0d8;
+  
+}
+
+
+body{
+	background-image: url('../img/pantallaverde2.png');
+	background-size:cover; /*la imagen se reescala segun el navegador*/
+	background-position: center center; /*para fijar la img tantoo verticalmente como horizontalmente*/
+ 	background-repeat: no-repeat;
+ 	background-attachment: fixed;/*para fijar la imagen y que no supere la altura*/
+
+
+}
+
+login-box{
+	padding-left: 2000;
+	padding-right: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-radius: 20px;
+}
+
